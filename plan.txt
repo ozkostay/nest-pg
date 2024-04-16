@@ -1,0 +1,5 @@
+
+sudo npm i -g @nestjs/cli
+npm install --save @nestjs/typeorm typeorm pg
+npm install @nestjs/config (for .env)
+
